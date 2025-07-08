@@ -1,0 +1,15 @@
+python-docx
+openai
+pandas
+python-dotenv
+pytesseract
+pdf2image
+google-generativeai
+opencv-python
+Pillow
+pydub
+torchaudio
+transformers
+soundfile 
+noisereduce
+streamlit
